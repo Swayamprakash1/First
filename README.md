@@ -1,2 +1,2 @@
 # First
-first depository
+first repository
